@@ -1,0 +1,774 @@
+[
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "1699290802587-01",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230413_193630",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_095605",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_100002",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_100051",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_100321",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_100429",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_101430",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_101606",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_101944",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_102248",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_102350",
+        "Faces": [
+            {
+                "box": {
+                    "x1": 426,
+                    "y1": 23,
+                    "x2": 469,
+                    "y2": 69,
+                    "w": 42,
+                    "h": 46
+                },
+                "confidence": 86.6,
+                "gender": "male",
+                "genderConfidence": 89,
+                "age": 32.7,
+                "expression": "neutral",
+                "expressionConfidence": 88.5
+            }
+        ]
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_102510",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_102852",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_103059",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_105013",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_110023",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_110137",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_110300",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_110703",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_110721",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_110803",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_111813",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_112224",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_112337",
+        "Faces": [
+            {
+                "box": {
+                    "x1": 516,
+                    "y1": 302,
+                    "x2": 538,
+                    "y2": 315,
+                    "w": 22,
+                    "h": 13
+                },
+                "confidence": 99,
+                "gender": "male",
+                "genderConfidence": 99.2,
+                "age": 42.6,
+                "expression": "neutral",
+                "expressionConfidence": 93.1
+            }
+        ]
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_112355",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_112457",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_112644",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230422_113337",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_164740",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_165022",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_165836",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_165925",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_170251",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_170332",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_170423",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_170520",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_170648",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_171006",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230423_171320",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230424_085857",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230501_180326",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230507_145759",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_141521",
+        "Faces": [
+            {
+                "box": {
+                    "x1": 158,
+                    "y1": 390,
+                    "x2": 173,
+                    "y2": 398,
+                    "w": 14,
+                    "h": 8
+                },
+                "confidence": 81.5,
+                "gender": "male",
+                "genderConfidence": 97.5,
+                "age": 17.3,
+                "expression": "neutral",
+                "expressionConfidence": 78.9
+            }
+        ]
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_150102",
+        "Faces": [
+            {
+                "box": {
+                    "x1": 286,
+                    "y1": 631,
+                    "x2": 299,
+                    "y2": 640,
+                    "w": 13,
+                    "h": 9
+                },
+                "confidence": 61.5,
+                "gender": "male",
+                "genderConfidence": 65.9,
+                "age": 19.4,
+                "expression": "neutral",
+                "expressionConfidence": 86.5
+            }
+        ]
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_151730",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_151746",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_153403",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_153417",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_155649",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230513_203425",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230514_154353",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230516_153359",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230516_165735",
+        "Faces": [
+            {
+                "box": {
+                    "x1": 276,
+                    "y1": 507,
+                    "x2": 305,
+                    "y2": 534,
+                    "w": 29,
+                    "h": 26
+                },
+                "confidence": 97.3,
+                "gender": "male",
+                "genderConfidence": 97.3,
+                "age": 25.7,
+                "expression": "neutral",
+                "expressionConfidence": 60.9
+            },
+            {
+                "box": {
+                    "x1": 126,
+                    "y1": 401,
+                    "x2": 138,
+                    "y2": 409,
+                    "w": 11,
+                    "h": 8
+                },
+                "confidence": 96.8,
+                "gender": "male",
+                "genderConfidence": 79.1,
+                "age": 22.1,
+                "expression": "neutral",
+                "expressionConfidence": 97.7
+            },
+            {
+                "box": {
+                    "x1": 115,
+                    "y1": 528,
+                    "x2": 130,
+                    "y2": 540,
+                    "w": 14,
+                    "h": 11
+                },
+                "confidence": 96.1,
+                "gender": "male",
+                "genderConfidence": 68.3,
+                "age": 16.2,
+                "expression": "neutral",
+                "expressionConfidence": 79.1
+            },
+            {
+                "box": {
+                    "x1": 129,
+                    "y1": 258,
+                    "x2": 139,
+                    "y2": 265,
+                    "w": 9,
+                    "h": 7
+                },
+                "confidence": 84.8,
+                "gender": "male",
+                "genderConfidence": 61.6,
+                "age": 15.1,
+                "expression": "neutral",
+                "expressionConfidence": 98.6
+            },
+            {
+                "box": {
+                    "x1": 227,
+                    "y1": 403,
+                    "x2": 250,
+                    "y2": 422,
+                    "w": 22,
+                    "h": 19
+                },
+                "confidence": 78,
+                "gender": "female",
+                "genderConfidence": 90.5,
+                "age": 18.1,
+                "expression": "happy",
+                "expressionConfidence": 72.6
+            },
+            {
+                "box": {
+                    "x1": 123,
+                    "y1": 25,
+                    "x2": 134,
+                    "y2": 36,
+                    "w": 11,
+                    "h": 11
+                },
+                "confidence": 66.3,
+                "gender": "male",
+                "genderConfidence": 72.5,
+                "age": 17.4,
+                "expression": "happy",
+                "expressionConfidence": 52.7
+            },
+            {
+                "box": {
+                    "x1": 92,
+                    "y1": 266,
+                    "x2": 102,
+                    "y2": 280,
+                    "w": 10,
+                    "h": 13
+                },
+                "confidence": 50.1,
+                "gender": "male",
+                "genderConfidence": 89.4,
+                "age": 18.7,
+                "expression": "neutral",
+                "expressionConfidence": 93.3
+            }
+        ]
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230520_145529",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230520_150646",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230520_150650",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230520_150657",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230520_150658",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230520_150707",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230525_183345",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230527_162611",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_133538",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_133631",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_141959",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_145916",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_150301",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_152044",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_152729",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_154657",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 768,
+        "ImageHeight": 576,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_155944",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230603_170350",
+        "Faces": [
+            {
+                "box": {
+                    "x1": 513,
+                    "y1": 542,
+                    "x2": 542,
+                    "y2": 570,
+                    "w": 28,
+                    "h": 27
+                },
+                "confidence": 95.3,
+                "gender": "male",
+                "genderConfidence": 77.7,
+                "age": 24.4,
+                "expression": "happy",
+                "expressionConfidence": 67.3
+            },
+            {
+                "box": {
+                    "x1": 360,
+                    "y1": 449,
+                    "x2": 382,
+                    "y2": 465,
+                    "w": 21,
+                    "h": 15
+                },
+                "confidence": 67.8,
+                "gender": "male",
+                "genderConfidence": 79.1,
+                "age": 35.9,
+                "expression": "neutral",
+                "expressionConfidence": 72.3
+            },
+            {
+                "box": {
+                    "x1": 197,
+                    "y1": 594,
+                    "x2": 244,
+                    "y2": 642,
+                    "w": 46,
+                    "h": 47
+                },
+                "confidence": 58.2,
+                "gender": "female",
+                "genderConfidence": 50.2,
+                "age": 32.1,
+                "expression": "neutral",
+                "expressionConfidence": 61.2
+            }
+        ]
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230606_175255",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230607_202239",
+        "Faces": []
+    },
+    {
+        "ImageWidth": 576,
+        "ImageHeight": 768,
+        "FileExtension": ".jpg",
+        "FileName": "IMG_20230610_174318",
+        "Faces": [
+            {
+                "box": {
+                    "x1": 245,
+                    "y1": 407,
+                    "x2": 278,
+                    "y2": 439,
+                    "w": 33,
+                    "h": 32
+                },
+                "confidence": 50.8,
+                "gender": "male",
+                "genderConfidence": 69.6,
+                "age": 35.4,
+                "expression": "neutral",
+                "expressionConfidence": 94.4
+            }
+        ]
+    }
+]
